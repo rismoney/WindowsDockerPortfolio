@@ -1,0 +1,7 @@
+http://:80 {
+ 
+ log stdout
+
+  root C:\wwwroot
+
+}
